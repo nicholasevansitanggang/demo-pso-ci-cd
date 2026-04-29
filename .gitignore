@@ -1,0 +1,5 @@
+node_modules/
+.next/
+pso-course-494800-7729f87770a8.json
+.env
+*.log
